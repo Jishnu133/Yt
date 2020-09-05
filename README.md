@@ -1,5 +1,5 @@
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jishnu133/chic_.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jishnu133/Yt.git)
 
 # YtbDownBot
 Telegram bot that utilize youtube-dl functionality for downloading video directly to telegram.
